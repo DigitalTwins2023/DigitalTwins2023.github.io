@@ -50,7 +50,7 @@ mention at ICCV 2017, best paper honorable mention at CHI 2017 and
 CHI 2020, best paper at W4A 2017 and 2019, best application paper
 ACCV 2014 and best paper honorable mention ECCV 2012.
 
-![Angjoo Kanazawa image](https://github.com/DigitalTwins2023/DigitalTwins2023.github.io/blob/main/kitani_kris.jpg)
+![Angjoo Kanazawa image](https://github.com/DigitalTwins2023/DigitalTwins2023.github.io/blob/main/kanazawa.jpg)
 
 Angjoo Kanazawa, Ph.D., is an Assistant Professor in the Department
 of Electrical Engineering and Computer Science at the University of California
