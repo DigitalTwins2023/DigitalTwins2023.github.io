@@ -37,8 +37,8 @@ In this workshop, the topics of interest include but are not limited to:
 - Multi-sensor fusion for human behavior understanding  
 - Applications of human behavior understanding/forecasting  
 
-### Keynote Speaker
-![Kris Kitani image](../blob/main/kitani_kris.jpg)
+### Keynote Speaker (tentative)
+![Kris Kitani image](https://github.com/DigitalTwins2023/DigitalTwins2023.github.io/blob/main//kitani_kris.jpg)
 
 Kris M. Kitani, Ph.D., is an associate research professor and director of
 the MS in Computer Vision program of the Robotics Institute at Carnegie
@@ -64,6 +64,33 @@ Park with her advisor David Jacobs. Her research is at the intersection
 of computer vision, graphics, and machine learning, focusing on visual
 perception of the dynamic 3D world behind everyday photographs and
 video.
+
+# Dates
+Tentative paper submission and review schedule
+
+- September 12, 2022: Submission of full paper
+- October 14, 0222: Notification of acceptance
+- October 31, 2022: Camera-ready full paper
+
+
+### Workshop chairs
+
+- Koichiro Niinuma, Fujitsu Research of America, USA
+- Laszlo A. Jeni, Carnegie Mellon University, USA
+- Takahisa Yamamoto, Fujitsu Research of America, USA
+- Ryosuke Kawamura, Fujitsu Limited, Japan
+
+### Program committee (tentative)
+- Abhinav Dhall, Australian National University, Australia
+- G´abor Szirtes, K¨URT Akad´emia / bsi.ai
+- Hamdi Dibeklioglu, Bilkent University, Turkey
+- Itir Onal Ertugrul, Utrecht University, Netherlands
+- Qiang Ji, Rensselaer Polytechnic Institute, USA
+- Shaun Canavan, University of South Florida, USA
+- Xing Zhang, A9
+- Zoltan Kato, University of Szeged, Hungary
+
+
 
 #You can use the [editor on GitHub](https://github.com/DigitalTwins2023/DigitalTwins2023.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
