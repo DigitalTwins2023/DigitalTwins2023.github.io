@@ -1,7 +1,3 @@
-##Behavioral Digital Twins for Smart Cities Workshop
-####In conjunction with IEEE FG 2023, Waikoloa Hawaii, USA
-####Jan 4th-8th, 2023
-
 ### Program
 Date: TBD  
 Location: TBD
@@ -40,7 +36,8 @@ In this workshop, the topics of interest include but are not limited to:
 - Applications of human behavior understanding/forecasting  
 
 ### Keynote Speaker
-![This is an image](https://github.com/DigitalTwins2023/DigitalTwins2023.github.io/blob/main/kitani_kris.jpg)
+![Kris Kitani image](https://github.com/DigitalTwins2023/DigitalTwins2023.github.io/blob/main/kitani_kris.jpg)
+
 Kris M. Kitani, Ph.D., is an associate research professor and director of
 the MS in Computer Vision program of the Robotics Institute at Carnegie
 Mellon University. He received his BS at the University of Southern California
@@ -52,6 +49,8 @@ learning. His work has been awarded the Marr Prize honorable
 mention at ICCV 2017, best paper honorable mention at CHI 2017 and
 CHI 2020, best paper at W4A 2017 and 2019, best application paper
 ACCV 2014 and best paper honorable mention ECCV 2012.
+
+![Angjoo Kanazawa image](https://github.com/DigitalTwins2023/DigitalTwins2023.github.io/blob/main/kitani_kris.jpg)
 
 Angjoo Kanazawa, Ph.D., is an Assistant Professor in the Department
 of Electrical Engineering and Computer Science at the University of California
