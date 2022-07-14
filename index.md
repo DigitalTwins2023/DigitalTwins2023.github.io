@@ -1,4 +1,5 @@
 # Behavioral Digital Twins for Smart Cities Workshop
+### In conjunction with IEEE FG 2023, Waikoloa Hawaii, USA, Jan 4th-8th, 2023
 
 # Program
 Date: TBD  
