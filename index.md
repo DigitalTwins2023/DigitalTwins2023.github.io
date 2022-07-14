@@ -1,12 +1,12 @@
-# Behavioral Digital Twins for Smart Cities Workshop
-### In conjunction with IEEE FG 2023, Waikoloa Hawaii, USA
-### Jan 4th-8th, 2023
+#Behavioral Digital Twins for Smart Cities Workshop
+###In conjunction with IEEE FG 2023, Waikoloa Hawaii, USA
+###Jan 4th-8th, 2023
 
-# Program
+## Program
 Date: TBD  
 Location: TBD
 
-# Description
+## Description
 Digital twin is a virtual environment that allows us to simulate real world problems.
 For digital twin, one of the most important factors is human behavior
 modeling since it is required by many digital twin applications, such as crime
@@ -39,7 +39,7 @@ In this workshop, the topics of interest include but are not limited to:
 - Multi-sensor fusion for human behavior understanding  
 - Applications of human behavior understanding/forecasting  
 
-# Keynote Speaker (tentative)
+## Keynote Speaker (tentative)
 ![Kris Kitani image](https://github.com/DigitalTwins2023/DigitalTwins2023.github.io/blob/main/kitani_kris.jpg?raw=true)
 
 Kris M. Kitani, Ph.D., is an associate research professor and director of
@@ -67,7 +67,7 @@ of computer vision, graphics, and machine learning, focusing on visual
 perception of the dynamic 3D world behind everyday photographs and
 video.
 
-# Paper Submittion
+## Paper Submittion
 ### Evaluation
 All submissions will be double-blind peer-reviewed by at least 3 members of
 the technical program committee. The authors will upload full papers (in the
@@ -80,14 +80,14 @@ Tentative paper submission and review schedule are below.
 - October 14, 0222: Notification of acceptance
 - October 31, 2022: Camera-ready full paper
 
-# Workshop chairs
+## Workshop chairs
 
 - [Koichiro Niinuma](https://scholar.google.com/citations?user=AFaeUrYAAAAJ&hl=en), Fujitsu Research of America, USA
 - [Laszlo A. Jeni](https://www.laszlojeni.com/), Carnegie Mellon University, USA
 - [Takahisa Yamamoto](https://www.researchgate.net/profile/Takahisa-Yamamoto-3), Fujitsu Research of America, USA
 - Ryosuke Kawamura, Fujitsu Limited, Japan
 
-# Program committee (tentative)
+## Program committee (tentative)
 - Abhinav Dhall, Australian National University, Australia
 - G´abor Szirtes, K¨URT Akad´emia / bsi.ai
 - Hamdi Dibeklioglu, Bilkent University, Turkey
