@@ -65,17 +65,22 @@ of computer vision, graphics, and machine learning, focusing on visual
 perception of the dynamic 3D world behind everyday photographs and
 video.
 
-# Dates
-Tentative paper submission and review schedule
+# Paper Submittion
+### Evaluation
+All submissions will be double-blind peer-reviewed by at least 3 members of
+the technical program committee. The authors will upload full papers (in the
+format of FG 2023 main conference) in the CMT submission system.
+
+### Dates
+Tentative paper submission and review schedule are below.
 
 - September 12, 2022: Submission of full paper
 - October 14, 0222: Notification of acceptance
 - October 31, 2022: Camera-ready full paper
 
-
 # Workshop chairs
 
-- Koichiro Niinuma, Fujitsu Research of America, USA
+- [Koichiro Niinuma](https://scholar.google.com/citations?user=AFaeUrYAAAAJ&hl=en), Fujitsu Research of America, USA
 - [Laszlo A. Jeni](https://www.laszlojeni.com/), Carnegie Mellon University, USA
 - [Takahisa Yamamoto](https://www.researchgate.net/profile/Takahisa-Yamamoto-3), Fujitsu Research of America, USA
 - Ryosuke Kawamura, Fujitsu Limited, Japan
@@ -89,41 +94,3 @@ Tentative paper submission and review schedule
 - Shaun Canavan, University of South Florida, USA
 - Xing Zhang, A9
 - Zoltan Kato, University of Szeged, Hungary
-
-
-
-#You can use the [editor on GitHub](https://github.com/DigitalTwins2023/DigitalTwins2023.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DigitalTwins2023/DigitalTwins2023.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
