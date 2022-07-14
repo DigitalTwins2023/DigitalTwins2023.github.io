@@ -1,6 +1,6 @@
-## Behavioral Digital Twins for Smart Cities Workshop
-#### In conjunction with IEEE FG 2023, Waikoloa Hawaii, USA
-#### Jan 4th-8th, 2023
+##Behavioral Digital Twins for Smart Cities Workshop
+####In conjunction with IEEE FG 2023, Waikoloa Hawaii, USA
+####Jan 4th-8th, 2023
 
 ### Program
 Date: TBD  
@@ -30,17 +30,41 @@ address the societal challenges of creating behavior sensing systems that accoun
 for the diversity of people and their environments.
 In this workshop, the topics of interest include but are not limited to:  
   
-• Human pose estimation/tracking  
-• Human action recognition  
-• Human pose/action/trajectory forecasting  
-• Visualizations of human trajectory/action  
-• Human-human interaction analysis/forecasting  
-• Human-object interaction detection/forecasting  
-• Multi-sensor fusion for human behavior understanding  
-• Applications of human behavior understanding/forecasting  
+- Human pose estimation/tracking  
+- Human action recognition  
+- Human pose/action/trajectory forecasting  
+- Visualizations of human trajectory/action  
+- Human-human interaction analysis/forecasting  
+- Human-object interaction detection/forecasting  
+- Multi-sensor fusion for human behavior understanding  
+- Applications of human behavior understanding/forecasting  
 
+### Keynote Speaker
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+Kris M. Kitani, Ph.D., is an associate research professor and director of
+the MS in Computer Vision program of the Robotics Institute at Carnegie
+Mellon University. He received his BS at the University of Southern California
+and his MS and PhD at the University of Tokyo. His research
+projects span the areas of computer vision, machine learning and human
+computer interaction. In particular, his research interests lie at the intersection
+of first-person vision, human activity modeling and inverse reinforcement
+learning. His work has been awarded the Marr Prize honorable
+mention at ICCV 2017, best paper honorable mention at CHI 2017 and
+CHI 2020, best paper at W4A 2017 and 2019, best application paper
+ACCV 2014 and best paper honorable mention ECCV 2012.
 
-You can use the [editor on GitHub](https://github.com/DigitalTwins2023/DigitalTwins2023.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Angjoo Kanazawa, Ph.D., is an Assistant Professor in the Department
+of Electrical Engineering and Computer Science at the University of California
+at Berkeley. Previously, she was a research scientist at Google
+NYC with Noah Snavely and prior to that she was a BAIR postdoc at
+UC Berkeley advised by Jitendra Malik, Alyosha Efros, and Trevor Darrell.
+She completed her PhD in CS at the University of Maryland, College
+Park with her advisor David Jacobs. Her research is at the intersection
+of computer vision, graphics, and machine learning, focusing on visual
+perception of the dynamic 3D world behind everyday photographs and
+video.
+
+#You can use the [editor on GitHub](https://github.com/DigitalTwins2023/DigitalTwins2023.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
