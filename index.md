@@ -1,11 +1,43 @@
 ## Behavioral Digital Twins for Smart Cities Workshop
-### In conjunction with IEEE FG 2023, Waikoloa Hawaii, USA
-### Jan 4th-8th, 2023
 #### In conjunction with IEEE FG 2023, Waikoloa Hawaii, USA
 #### Jan 4th-8th, 2023
--- In conjunction with IEEE FG 2023, Waikoloa Hawaii, USA
--- Jan 4th-8th, 2023
 
+### Program
+Date: TBD  
+Location: TBD
+
+### Description
+Digital twin is a virtual environment that allows us to simulate real world problems.
+For digital twin, one of the most important factors is human behavior
+modeling since it is required by many digital twin applications, such as crime
+and accident prevention, mitigation strategies in natural disasters, autonomous
+driving, health coaching and sports simulation. However, because of the complexity
+of human behavior, there are still many challenges unsolved. To address
+the challenges, multiple research fields need to be involved together, including
+computer vision, behavior science, human-computer interaction and AR/VR.
+This topic is germane to both computer vision and computational behavior
+communities. In this workshop, we aim to facilitate further discussion on this
+emerging research field from both technological and application perspectives.
+The outcomes of this workshop are relevant to building behavioral digital
+twins of pedestrians in smart cities equipped with sensor networks. During natural
+disasters, such as the COVID-19 pandemic, modeling behavioral patterns
+may lead to mitigation policies with greater efficiency and effectiveness, can
+identify cost-effective solutions to deliver public services, improve government
+accountability vis-`a-vis citizens and track progress and impact.
+This workshop will serve as a catalyst to bring diverse stakeholders together
+so that new scientific languages/thoughts can be established, in an effort to
+address the societal challenges of creating behavior sensing systems that account
+for the diversity of people and their environments.
+In this workshop, the topics of interest include but are not limited to:  
+  
+• Human pose estimation/tracking  
+• Human action recognition  
+• Human pose/action/trajectory forecasting  
+• Visualizations of human trajectory/action  
+• Human-human interaction analysis/forecasting  
+• Human-object interaction detection/forecasting  
+• Multi-sensor fusion for human behavior understanding  
+• Applications of human behavior understanding/forecasting  
 
 
 You can use the [editor on GitHub](https://github.com/DigitalTwins2023/DigitalTwins2023.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
