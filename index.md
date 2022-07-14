@@ -38,7 +38,7 @@ In this workshop, the topics of interest include but are not limited to:
 - Applications of human behavior understanding/forecasting  
 
 ### Keynote Speaker
-![Kris Kitani image](https://github.com/DigitalTwins2023/DigitalTwins2023.github.io/blob/main/kitani_kris.jpg)
+![Kris Kitani image](../blob/main/kitani_kris.jpg)
 
 Kris M. Kitani, Ph.D., is an associate research professor and director of
 the MS in Computer Vision program of the Robotics Institute at Carnegie
