@@ -1,10 +1,10 @@
-### Behavioral Digital Twins for Smart Cities Workshop
+# Behavioral Digital Twins for Smart Cities Workshop
 
-### Program
+# Program
 Date: TBD  
 Location: TBD
 
-### Description
+# Description
 Digital twin is a virtual environment that allows us to simulate real world problems.
 For digital twin, one of the most important factors is human behavior
 modeling since it is required by many digital twin applications, such as crime
@@ -37,7 +37,7 @@ In this workshop, the topics of interest include but are not limited to:
 - Multi-sensor fusion for human behavior understanding  
 - Applications of human behavior understanding/forecasting  
 
-### Keynote Speaker (tentative)
+# Keynote Speaker (tentative)
 ![Kris Kitani image](https://github.com/DigitalTwins2023/DigitalTwins2023.github.io/blob/main//kitani_kris.jpg)
 
 Kris M. Kitani, Ph.D., is an associate research professor and director of
@@ -73,14 +73,14 @@ Tentative paper submission and review schedule
 - October 31, 2022: Camera-ready full paper
 
 
-### Workshop chairs
+# Workshop chairs
 
 - Koichiro Niinuma, Fujitsu Research of America, USA
-- Laszlo A. Jeni, Carnegie Mellon University, USA
-- Takahisa Yamamoto, Fujitsu Research of America, USA
+- [Laszlo A. Jeni](https://www.laszlojeni.com/), Carnegie Mellon University, USA
+- [Takahisa Yamamoto](https://www.researchgate.net/profile/Takahisa-Yamamoto-3), Fujitsu Research of America, USA
 - Ryosuke Kawamura, Fujitsu Limited, Japan
 
-### Program committee (tentative)
+# Program committee (tentative)
 - Abhinav Dhall, Australian National University, Australia
 - G´abor Szirtes, K¨URT Akad´emia / bsi.ai
 - Hamdi Dibeklioglu, Bilkent University, Turkey
