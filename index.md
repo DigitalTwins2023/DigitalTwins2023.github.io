@@ -41,7 +41,7 @@ In this workshop, the topics of interest include but are not limited to:
 - Multi-sensor fusion for human behavior understanding  
 - Applications of human behavior understanding/forecasting  
 
-## Keynote Speaker (TBD)
+## Keynote Speaker (TBA)
 <!--
 ![Kris Kitani image](https://github.com/DigitalTwins2023/DigitalTwins2023.github.io/blob/main/kitani_kris.jpg?raw=true)
 
@@ -91,7 +91,7 @@ Tentative paper submission and review schedule are below.
 - [Takahisa Yamamoto](https://www.researchgate.net/profile/Takahisa-Yamamoto-3), Fujitsu Research of America, USA
 - Ryosuke Kawamura, Fujitsu Limited, Japan
 
-## Program committee (TBD)
+## Program committee (TBA)
 <!--
 - Abhinav Dhall, Australian National University, Australia
 - G´abor Szirtes, K¨URT Akad´emia / bsi.ai
