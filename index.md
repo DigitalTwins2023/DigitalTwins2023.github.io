@@ -41,7 +41,8 @@ In this workshop, the topics of interest include but are not limited to:
 - Multi-sensor fusion for human behavior understanding  
 - Applications of human behavior understanding/forecasting  
 
-## Keynote Speaker (tentative)
+## Keynote Speaker (TBD)
+<!--
 ![Kris Kitani image](https://github.com/DigitalTwins2023/DigitalTwins2023.github.io/blob/main/kitani_kris.jpg?raw=true)
 
 Kris M. Kitani, Ph.D., is an associate research professor and director of
@@ -68,6 +69,7 @@ Park with her advisor David Jacobs. Her research is at the intersection
 of computer vision, graphics, and machine learning, focusing on visual
 perception of the dynamic 3D world behind everyday photographs and
 video.
+-->
 
 ## Paper Submittion
 ### Evaluation
@@ -89,7 +91,8 @@ Tentative paper submission and review schedule are below.
 - [Takahisa Yamamoto](https://www.researchgate.net/profile/Takahisa-Yamamoto-3), Fujitsu Research of America, USA
 - Ryosuke Kawamura, Fujitsu Limited, Japan
 
-## Program committee (tentative)
+## Program committee (TBD)
+<!--
 - Abhinav Dhall, Australian National University, Australia
 - G´abor Szirtes, K¨URT Akad´emia / bsi.ai
 - Hamdi Dibeklioglu, Bilkent University, Turkey
@@ -98,3 +101,4 @@ Tentative paper submission and review schedule are below.
 - Shaun Canavan, University of South Florida, USA
 - Xing Zhang, A9
 - Zoltan Kato, University of Szeged, Hungary
+-->
