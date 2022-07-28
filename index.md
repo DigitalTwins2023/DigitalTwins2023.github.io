@@ -56,20 +56,12 @@ learning. His work has been awarded the Marr Prize honorable
 mention at ICCV 2017, best paper honorable mention at CHI 2017 and
 CHI 2020, best paper at W4A 2017 and 2019, best application paper
 ACCV 2014 and best paper honorable mention ECCV 2012.
+-->
 
 ![Angjoo Kanazawa image](https://github.com/DigitalTwins2023/DigitalTwins2023.github.io/blob/main/kanazawa.jpg?raw=true)
 
-Angjoo Kanazawa, Ph.D., is an Assistant Professor in the Department
-of Electrical Engineering and Computer Science at the University of California
-at Berkeley. Previously, she was a research scientist at Google
-NYC with Noah Snavely and prior to that she was a BAIR postdoc at
-UC Berkeley advised by Jitendra Malik, Alyosha Efros, and Trevor Darrell.
-She completed her PhD in CS at the University of Maryland, College
-Park with her advisor David Jacobs. Her research is at the intersection
-of computer vision, graphics, and machine learning, focusing on visual
-perception of the dynamic 3D world behind everyday photographs and
-video.
--->
+Angjoo Kanazawa is an Assistant Professor in the Department of Electrical Engineering and Computer Science at the University of California at Berkeley. Her research is at the intersection of Computer Vision, Computer Graphics, and Machine Learning, focusing on the visual perception of the dynamic 3D world behind everyday photographs and video. Previously, she was a research scientist at Google NYC with Noah Snavely, and prior to that she was a BAIR postdoc at UC Berkeley advised by Jitendra Malik, Alyosha Efros, and Trevor Darrell. She completed her PhD in Computer Science at the University of Maryland, College Park with her advisor David Jacobs. She also spent time at the Max Planck Institute for Intelligent Systems with Michael Black. She has been named a Rising Star in EECS and is a recipient of Anita Borg Memorial Scholarship, Best Paper Award in Eurographics 2016, Google Research Scholar Award 2021, Spark award 2022. 
+
 
 ## Paper Submittion
 ### Evaluation
