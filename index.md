@@ -69,7 +69,7 @@ Angjoo Kanazawa is an Assistant Professor in the Department of Electrical Engine
 ### Evaluation
 All submissions will be double-blind peer-reviewed by at least 3 members of
 the technical program committee. The authors will upload full papers (in the
-format of FG 2023 main conference) in the CMT submission system.
+format of FG 2023 main conference) in the [CMT submission system](https://cmt3.research.microsoft.com/B4SCW2023/Submission/Index).
 
 ### Dates
 Tentative paper submission and review schedule are below.
