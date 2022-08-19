@@ -68,7 +68,15 @@ Angjoo Kanazawa is an Assistant Professor in the Department of Electrical Engine
 ## Paper Submittion
 ### Evaluation
 All submissions will be double-blind peer-reviewed by at least 3 members of
-the technical program committee. The authors will upload full papers (in the
+the technical program committee.
+
+### Guidelines
+The submitted papers longer than six pages will be subject to an extra fee (100 USD per page). The maximu number of page is eight. All submitting papers have to be in pdf format and the maximum file size is 10MB. 
+All accepted papers will be published as part of IEEE FG2023 proceedings and will be included in IEEE Xplore, therefore, should follow the same 
+[paper guidelines](http://fg2023.ieee-biometrics.org/participate/submission) of the conference.
+
+### Submittion site
+The authors will upload full papers (in the
 format of FG 2023 main conference) in the [CMT submission system](https://cmt3.research.microsoft.com/B4SCW2023/Submission/Index).
 
 ### Dates
