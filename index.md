@@ -80,9 +80,11 @@ The authors will upload full papers (in the
 format of FG 2023 main conference) in the [CMT submission system](https://cmt3.research.microsoft.com/B4SCW2023/Submission/Index).
 
 ### Dates
-Tentative paper submission and review schedule are below.
+The paper submission and review schedule are below.
+(The submission date is extended!)
 
-- September 12, 2022: Submission of full paper
+~~- September 12, 2022: Submission of full paper~~
+- September 26, 2022: Submission of full paper
 - October 14, 2022: Notification of acceptance
 - October 31, 2022: Camera-ready full paper
 
