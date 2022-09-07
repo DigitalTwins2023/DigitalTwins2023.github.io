@@ -5,8 +5,7 @@ with the IEEE International Conference on Automatic Face and Gesture Recognition
 The conference will be held in Waikoloa Hawaii, USA, from January 4 to 8, 2023.  
 
 ## Program (tentative)
-Date: January 5, 2023 
-      half day workshop (afternoon)  
+Date: January 5, 2023 (half day workshop in the afternoon)  
 Location: TBD
 
 ## Description
