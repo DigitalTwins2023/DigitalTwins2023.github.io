@@ -81,9 +81,10 @@ format of FG 2023 main conference) in the [CMT submission system](https://cmt3.r
 
 ### Dates
 The paper submission and review schedule are below.
-(The submission date is extended!)
+(The submission date is extended again!)
 
 - ~~September 12, 2022: Submission of full paper~~
+- ~~September 26, 2022: Submission of full paper~~
 - October 5, 2022: Submission of full paper
 - October 19, 2022: Notification of acceptance
 - October 31, 2022: Camera-ready full paper
