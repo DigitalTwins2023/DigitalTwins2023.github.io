@@ -84,8 +84,8 @@ The paper submission and review schedule are below.
 (The submission date is extended!)
 
 - ~~September 12, 2022: Submission of full paper~~
-- September 26, 2022: Submission of full paper
-- October 14, 2022: Notification of acceptance
+- October 5, 2022: Submission of full paper
+- October 19, 2022: Notification of acceptance
 - October 31, 2022: Camera-ready full paper
 
 ## Workshop chairs
