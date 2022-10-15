@@ -1,5 +1,5 @@
 <!-- Behavioral Digital Twins for Smart Cities -->
-## Behavioral Digital Twins for Smart Cities Workshop
+## ■Behavioral Digital Twins for Smart Cities Workshop
 The 1st Workshop on Behavioral Digital Twins for Smart Cities will be held in conjunction 
 with the IEEE International Conference on Automatic Face and Gesture Recognition 2023 [(IEEE FG2023)](http://fg2023.ieee-biometrics.org/).  
 The conference will be held in Waikoloa Hawaii, USA, from January 5 to 8, 2023.  
