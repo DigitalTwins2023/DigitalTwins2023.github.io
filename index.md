@@ -64,6 +64,17 @@ ACCV 2014 and best paper honorable mention ECCV 2012.
 
 Angjoo Kanazawa is an Assistant Professor in the Department of Electrical Engineering and Computer Science at the University of California at Berkeley. Her research is at the intersection of Computer Vision, Computer Graphics, and Machine Learning, focusing on the visual perception of the dynamic 3D world behind everyday photographs and video. Previously, she was a research scientist at Google NYC with Noah Snavely, and prior to that she was a BAIR postdoc at UC Berkeley advised by Jitendra Malik, Alyosha Efros, and Trevor Darrell. She completed her PhD in Computer Science at the University of Maryland, College Park with her advisor David Jacobs. She also spent time at the Max Planck Institute for Intelligent Systems with Michael Black. She has been named a Rising Star in EECS and is a recipient of Anita Borg Memorial Scholarship, Best Paper Award in Eurographics 2016, Google Research Scholar Award 2021, Spark award 2022. 
 
+### Michael Zollhoefer
+
+Michael Zollhoefer is a Research Scientist at Reality Labs Research (RLR) in Pittsburgh leading the Completeness Group. His north star is fully immersive remote communication and interaction in the virtual world at a level that is indistinguishable from reality. To this end, he develops key technology that combines fundamental computer vision, machine learning, and graphics research based on a novel neural reconstruction and rendering paradigm. Before joining RLR, Michael was a Visiting Assistant Professor at Stanford University and a Postdoctoral Researcher at the Max Planck Institute for Informatics. He received his PhD from the University of Erlangen-Nuremberg for his work on real-time reconstruction of static and dynamic scenes.
+
+#### Title
+Complete Codec Telepresence
+
+#### Abstract
+Imagine two people, each of them within their own home, being able to communicate and interact virtually with each other as if they are both present in the same shared physical space. Enabling such an experience, i.e., building a telepresence system that is indistinguishable from reality, is one of the goals of Reality Labs Research (RLR) in Pittsburgh. To this end, we develop key technology that combines fundamental computer vision, machine learning, and graphics techniques based on a novel neural reconstruction and rendering paradigm. In this talk, I will cover our advances towards a neural rendering approach for complete codec telepresence that includes metric avatars, binaural audio, photorealistic spaces, as well as their interactions in terms of light and sound transport. In the future, this approach will bring the world closer together by enabling anybody to communicate and interact with anyone, anywhere, at any time, as if everyone were sharing the same physical space.
+
+
 
 ## Paper Submittion
 ### Evaluation
