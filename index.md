@@ -66,6 +66,7 @@ Angjoo Kanazawa is an Assistant Professor in the Department of Electrical Engine
 
 ### Michael Zollhoefer
 <img src="https://github.com/DigitalTwins2023/DigitalTwins2023.github.io/blob/main/Michael_Zollhoefer.png?raw=true" width="320" alt="Michael Zollhoefer image">
+
 Michael Zollhoefer is a Research Scientist at Reality Labs Research (RLR) in Pittsburgh leading the Completeness Group. His north star is fully immersive remote communication and interaction in the virtual world at a level that is indistinguishable from reality. To this end, he develops key technology that combines fundamental computer vision, machine learning, and graphics research based on a novel neural reconstruction and rendering paradigm. Before joining RLR, Michael was a Visiting Assistant Professor at Stanford University and a Postdoctoral Researcher at the Max Planck Institute for Informatics. He received his PhD from the University of Erlangen-Nuremberg for his work on real-time reconstruction of static and dynamic scenes.
 
 #### Title: Complete Codec Telepresence
