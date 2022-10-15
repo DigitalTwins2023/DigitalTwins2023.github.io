@@ -88,7 +88,7 @@ All accepted papers will be published as part of IEEE FG2023 proceedings and wil
 The authors will upload full papers (in the
 format of FG 2023 main conference) in the [CMT submission system](https://cmt3.research.microsoft.com/B4SCW2023/Submission/Index).
 
-### Dates
+### -Dates
 The paper submission and review schedule are below.
 (The submission date is extended!)
 
