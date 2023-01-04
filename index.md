@@ -5,8 +5,14 @@ with the IEEE International Conference on Automatic Face and Gesture Recognition
 The conference will be held in Waikoloa Hawaii, USA, from January 5 to 8, 2023.  
 
 ## ■Program
-Date: January 6, 2023 (half day workshop in the afternoon)  
-Location: TBD
+Date: 14:00 to 17:00, January 6, 2023 (half day workshop in the afternoon)  
+Location: Paniolo III
+
+### ・Agenda
+- 14:10-14:20 Introduction
+- 14:20-15:20 Keynote speaker session 1: Dr. Angjoo Kanazawa
+- 15:50-16:50 Keynote speaker session 2: Dr. Michael Zollhoefer
+
 
 ## ■Description
 Digital twin is a virtual environment that allows us to simulate real world problems.
