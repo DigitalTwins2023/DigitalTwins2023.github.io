@@ -47,7 +47,7 @@ In this workshop, the topics of interest include but are not limited to:
 - Multi-sensor fusion for human behavior understanding  
 - Applications of human behavior understanding/forecasting  
 
-## ■Keynote Speaker (TBA)
+## ■Keynote Speaker
 <!--
 ![Kris Kitani image](https://github.com/DigitalTwins2023/DigitalTwins2023.github.io/blob/main/kitani_kris.jpg?raw=true)
 
